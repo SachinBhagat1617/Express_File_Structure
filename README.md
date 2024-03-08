@@ -25,7 +25,7 @@ This project provides a well-organized and efficient template to streamline your
 
 4. **Database Setup (Optional):**
    - If using a database:
-     - Navigate to the `src/config` directory.
+     - Navigate to the `src` directory.
      - If using Sequelize (or another ORM):
        - Run:
          ```bash
